@@ -1,0 +1,4 @@
+server.port=4444
+spring.application.name=zuulServer
+zuul.routes.Transaction.url=http://localhost:2222
+ 
